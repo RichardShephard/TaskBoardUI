@@ -1,9 +1,6 @@
 <template>
-    <div class="hello">Hello World!</div>
+    <div class="hello">Hello World From Home.vue!</div>
 </template>
-
-<script>
-</script>
 
 <style lang="scss" scoped>
     .hello {
